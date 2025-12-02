@@ -1,0 +1,14 @@
+D:\BOOTCAMPS\Bootcamp1\Día12\dia12_curvas_bezier\bin\Debug\net10.0\dia12_curvas_bezier.exe
+D:\BOOTCAMPS\Bootcamp1\Día12\dia12_curvas_bezier\bin\Debug\net10.0\dia12_curvas_bezier.deps.json
+D:\BOOTCAMPS\Bootcamp1\Día12\dia12_curvas_bezier\bin\Debug\net10.0\dia12_curvas_bezier.runtimeconfig.json
+D:\BOOTCAMPS\Bootcamp1\Día12\dia12_curvas_bezier\bin\Debug\net10.0\dia12_curvas_bezier.dll
+D:\BOOTCAMPS\Bootcamp1\Día12\dia12_curvas_bezier\bin\Debug\net10.0\dia12_curvas_bezier.pdb
+D:\BOOTCAMPS\Bootcamp1\Día12\dia12_curvas_bezier\obj\Debug\net10.0\dia12_curvas_bezier.GeneratedMSBuildEditorConfig.editorconfig
+D:\BOOTCAMPS\Bootcamp1\Día12\dia12_curvas_bezier\obj\Debug\net10.0\dia12_curvas_bezier.AssemblyInfoInputs.cache
+D:\BOOTCAMPS\Bootcamp1\Día12\dia12_curvas_bezier\obj\Debug\net10.0\dia12_curvas_bezier.AssemblyInfo.cs
+D:\BOOTCAMPS\Bootcamp1\Día12\dia12_curvas_bezier\obj\Debug\net10.0\dia12_curvas_bezier.csproj.CoreCompileInputs.cache
+D:\BOOTCAMPS\Bootcamp1\Día12\dia12_curvas_bezier\obj\Debug\net10.0\dia12_curvas_bezier.dll
+D:\BOOTCAMPS\Bootcamp1\Día12\dia12_curvas_bezier\obj\Debug\net10.0\refint\dia12_curvas_bezier.dll
+D:\BOOTCAMPS\Bootcamp1\Día12\dia12_curvas_bezier\obj\Debug\net10.0\dia12_curvas_bezier.pdb
+D:\BOOTCAMPS\Bootcamp1\Día12\dia12_curvas_bezier\obj\Debug\net10.0\dia12_curvas_bezier.genruntimeconfig.cache
+D:\BOOTCAMPS\Bootcamp1\Día12\dia12_curvas_bezier\obj\Debug\net10.0\ref\dia12_curvas_bezier.dll

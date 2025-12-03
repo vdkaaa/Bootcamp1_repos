@@ -1,5 +1,6 @@
 # Este es un .gitignore estándar para proyectos de Unity.
 # Ignora archivos temporales, builds, y configuraciones locales.
+# Modificado para ser compatible también con proyectos de C# estándar.
 
 # Carpetas generadas por Unity que deben ser ignoradas
 /[Ll]ibrary/
@@ -12,15 +13,17 @@
 /[Mm]emoryCaptures/
 /[Rr]ecordings/
 
-# Archivos de Visual Studio / Rider
-*.sln
+# Archivos de IDE (Visual Studio / Rider) y carpetas de compilación de .NET
+# Los archivos .sln y .csproj NO se ignoran, son esenciales para proyectos de C#
+# *.sln
 *.suo
-*.csproj
+# *.csproj
 *.user
 *.userprefs
 *.unityproj
 .vs/
 .vscode/
+[Bb]in/
 
 # Archivos de sistema operativo
 .DS_Store

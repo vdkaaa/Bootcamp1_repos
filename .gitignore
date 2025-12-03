@@ -1,0 +1,17 @@
+a# Ignorar directorios de compilación y salida
+[Bb]in/
+[Oo]bj/
+[Bb]uild/
+
+# Ignorar archivos de configuración de usuario de Visual Studio
+*.user
+*.suo
+.vs/
+
+# Ignorar directorios de paquetes (NuGet)
+packages/
+*.nupkg
+
+# Ignorar archivos de sistema operativo
+.DS_Store
+Thumbs.db
